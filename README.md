@@ -1,4 +1,5 @@
 ---
+
 **Movie Recommender System**
 
 An interactive movie recommendation web application built with Python, Streamlit, and machine learning techniques. This system suggests the top 5 similar movies to a selected one using a precomputed similarity matrix, enhancing user experience with dynamic movie posters fetched via the TMDB API.
